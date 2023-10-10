@@ -1,2 +1,2 @@
-# stacked-carousel
+# stackcarousel
 Created with CodeSandbox
